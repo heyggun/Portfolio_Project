@@ -1,7 +1,7 @@
 # Portfolio_Project
 
 
-### 1. [Project 1] 
+### 1. [Project 1] CF_recommendation
   
   - CF 기반 People-to-People 추천 서비스 개발 
 
