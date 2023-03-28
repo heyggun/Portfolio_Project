@@ -17,7 +17,7 @@
  
  ## [데이터]
  
- ai_report_data : ner 사전 데이터 & 불용어 데이터
+ - ai_report_data : ner 사전 데이터 & 불용어 데이터
  
  
  ## [기타] 
