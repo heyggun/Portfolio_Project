@@ -7,7 +7,7 @@
 [1] ai_chemistry_p_api
  => 성혼 데이터 기반 1:1 분석 모델 api
  
-[2] ai_chemistry_list_api
+[2] ai_chemistry_List_api
  => 위의 성혼 데이터 기반 1:1 분석 모델 기반, 회원 별 가장 높은 점수를 가진 상대 유저를 랭킹 별 리스트화 해주는 api
  
 [3] ai_report_api
