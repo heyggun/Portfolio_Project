@@ -8,7 +8,7 @@
 
 [1] ai_rrs_api -> 상호추천 서비스 api
 
-[데이터]
+## [데이터]
 
 - active한 회원 데이터
 - 탈퇴한 회원 데이터 & 탈퇴한 회원의 메시지 및 열람 등의 로그 데이터
@@ -18,11 +18,11 @@
 - 회원 feature간 상관관계(corrleation)를 파악하기 위해 필요한 feature만 추출한 회원 데이터
  
 
-[모델]
+## [모델]
 
 - 위의 응답률 데이터로 학습한 응답률 예측 모델(catboosting 사용)
 
-[기타]
+## [기타]
 
 - Akiva Kleinerman,  Ariel Rosenfeld(2019). Supporting users in fnding successful matches in reciprocal recommender systems
  논문 참고
