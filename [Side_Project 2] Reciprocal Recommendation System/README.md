@@ -8,6 +8,8 @@
 
 [1] ai_rrs_api -> 상호추천 서비스 api
 
+- 알고리즘 설명 : https://www.notion.so/yeoboya-success-member-analysis/people-to-people-Reciprocal-recommendation-system-click-b41643b709974361a13c6a048806a4c5
+
 ## [데이터]
 
 - active한 회원 데이터
