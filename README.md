@@ -30,11 +30,11 @@
   
 ### 7. [Side_Project 2]  Reciprocal Recommendation System
 
-  - 양방향 사람 추천 모델링(Reciprocal Recommendation System; RRS)
+  - 양방향-상호추천 모델링(Reciprocal Recommendation System; RRS)
 
 
-### 8. [Side_Project 3]
+### 8. [Side_Project 3] dialect_chatbot
 
-  - 사투리 일상 대화 
+  - 사투리 일상 대화 챗봇
   
  
